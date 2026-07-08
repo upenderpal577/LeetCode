@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/upenderpal577/LeetCode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/upenderpal577/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/upenderpal577/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 <!---LeetCode Topics End-->
