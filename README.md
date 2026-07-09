@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1025-divisor-game](https://github.com/upenderpal577/LeetCode/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1025-divisor-game](https://github.com/upenderpal577/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/upenderpal577/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/upenderpal577/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
