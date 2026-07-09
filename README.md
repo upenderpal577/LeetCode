@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Design
 |  |
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
