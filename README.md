@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/upenderpal577/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/upenderpal577/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/upenderpal577/LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/upenderpal577/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/upenderpal577/LeetCode/tree/master/0091-decode-ways) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/upenderpal577/LeetCode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/upenderpal577/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/upenderpal577/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
 ## Brainteaser
 |  |
 | ------- |
@@ -75,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/upenderpal577/LeetCode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
