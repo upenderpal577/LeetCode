@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/upenderpal577/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/upenderpal577/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/upenderpal577/LeetCode/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/upenderpal577/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/upenderpal577/LeetCode/tree/master/0091-decode-ways) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/upenderpal577/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/upenderpal577/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/upenderpal577/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/upenderpal577/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/upenderpal577/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/upenderpal577/LeetCode/tree/master/0338-counting-bits) |
